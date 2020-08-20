@@ -1,0 +1,2 @@
+# Recognizing-Handwritten-Digits-with-Python
+ Recognizing Handwritten Digits with Python throgh ML algorightm know as LogisticRegression.In which we are going to analysis over 7000 different handwritten digits in which all comprise of 784 pixels(28*28).In this project our goal is to take all the data in visiualize it and understand each label correspond to 784 pixels and create our LogisticRegression model double accurataly predict each input array as value 0-9.
